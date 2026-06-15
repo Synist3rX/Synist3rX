@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="Deleon.png">
-  <br><br>
   Profile
   <br>
   https://app.hackthebox.com/profile/861002
