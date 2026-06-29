@@ -1,7 +1,7 @@
 <p align="center">
   Profile
   <br>
-  https://app.hackthebox.com/profile/861002
+  https://app.hackthebox.com/public/users/861002
   <br><br>
   Blog
   <br>
