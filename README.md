@@ -7,5 +7,5 @@
   <br>
   https://synist3rx.github.io
   <br><br>
-  <img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/badges/861002.png" alt="Deleon Badge - Hack The Box">
+  <img src="https://www.hackthebox.com/badge/image/861002" alt="Synist3rX Badge - Hack The Box">
 </p>
